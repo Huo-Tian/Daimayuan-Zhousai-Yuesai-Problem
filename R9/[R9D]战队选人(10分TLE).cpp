@@ -22,13 +22,13 @@ int C(int m, int n) {
     return (n - m != 0 ? jc(n) / (jc(m) * jc(n - m)) : jc(n) / (jc(m)));
 }
 
-int main() {
+int main(){
     scanf("%d%d%d%d%d", &a, &b, &c, &n, &m);
     for(int i = 0; i <= n; i ++) {
-        for(int j = 0; j <= b - i; j ++) {
+        for(int j = 0; j <= m; j ++) {
             if(n - i <= a && i + j <= b && m - j <= c) {
                 ans += C(n - i, a) * C(i, b) * C(j, b - i) * C(m - j, c);
-                //ans %= P;
+                ans %= P;
             }
         }
     }
