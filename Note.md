@@ -3,15 +3,12 @@
 ## 一、简介
 	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
     2.已经将所有DYP项目上有的代码全部搬运过来了
-	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有周赛的，叫DZP)
+	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 	2.现在更新到DMY Round 65及DMY Yuesai 202606.
 	3.2026.6.18-> 目前为307文件(C++ + markdown,不含适配IDE的文件)。
+    4.由于Huo-Tian有特殊事件，在6.22~6.30(可能)不会进行更新。
 
-## 二、代码特点
-	1.包含string, vector及一些STL.
-	2.代码中常用数据类型：long long, int, bool, double, char
-	3.一些代码包含void/int/inline void/bool/long long 函数(注意⚠️, short/float/long一般不用)
-## 三、整理~
+## 二、整理~
 	1.现在的维护由@HuoTian2016(我的小号)和@Huo-Tian2016(我的新小号)进行，现在的添加代码工作由@Huo-Tian(我本人)进行。
     2.在2026-04-29之后可以在题库中看到R1A。(终于加上了)
 	3.由于R20及以前(尤其是R10及之前)的一大部分代码看得不美观,现在的美观版代码由@Huo-Tian(我本人)进行了美化。
@@ -37,9 +34,9 @@ R1 ~ R55 v0.5.6 snapshot 260409a
 R56 v1.0.0
 R53C(60) & R3C v1.1.0
 R16C & R51G(0) v1.1.0 snapshot 26w01a
-R21C R17C R49C & R2C v1.2.5 重制更新第二季
-R57 v1.3.0 重制更新第三季
-R58 v1.3.2 双赛临头的快乐更新(重制更新第三季·第二部分) 
+R21C R17C R49C & R2C v1.2.5
+R57 v1.3.0
+R58 v1.3.2
 R59 v1.3.3
 R60 v1.3.4
 R61-63 v1.3.4 Snapshot 1-4
@@ -48,7 +45,7 @@ R1 ~ R20 美观修理 v1.3.6
 R64 v1.3.6 Snapshot-1
 Yuesai(DYP) v1.3.7 Version1
 R65 v1.3.7 Version2
-R63D v1.3.7 Version5(JotValley)
+R63D+修整 v1.3.7 Version5(JotValley)
 
 ## 格式！(X表示数字)
 
@@ -56,9 +53,11 @@ R63D v1.3.7 Version5(JotValley)
 
 vX.X.X VersionX
 
+vX.X.X VersionX(代号)
+
 ### 快照版(1.3.4系列及以后为补充版)：
 
-vX.X.X snapshot-X 更新 代号(从v1.1.0那个快照版本往后)
+vX.X.X snapshot-X 代号
 
 ### 预览版：
 
