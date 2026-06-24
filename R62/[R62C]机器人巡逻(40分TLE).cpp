@@ -4,7 +4,7 @@ using namespace std;
 int n;
 int q, p;
 int x;
-int a[200010];
+int d[100010], diff[100100];
 bool turn = true;
 bool work = true;
 
@@ -12,25 +12,18 @@ int main() {
 	//turn 左为false, 右为true
 	//work 改为true，不改为false
 	cin >> n >> q >> p;
-	memset(a, 0, sizeof(a));
 	for(; q--; ) {
 		int opt;
 		cin >> opt;
 		if(opt == 1) {
 			cin >> x;
-            for(; x-- ;) {
-                if((turn == false && p == 1) || (turn == true && p == n)) {
-                    break;
-                }
-                if(turn == false) {
-                    p --;
-                } else {
-                    p ++;
-                }
-                if(work == true) {
-                    a[p] = (a[p] == 1 ? 0 : 1);
-                }
+            if(turn == false && p - x <= 0) continue;
+            if(turn == true && p + x >= n) continue;
+            if(work) {
+                diff[p] ++;
+                diff[p + x + 1] --;
             }
+            p += x;
 		}
         else if(opt == 2) {
             turn = (turn == true ? false : true);
@@ -38,8 +31,9 @@ int main() {
             work = (work == true ? false : true);
         }
 	}
-	for(int i = 1; i < n; i ++) {
-		cout << a[i];
-	}
-    cout << a[n];
+    for(int i = 1; i <= n; i ++) {
+        d[i] = (d[i - 1] + diff[i]) % 2;
+        cout << d[i] << " ";
+    }
+    cout << endl;
 }

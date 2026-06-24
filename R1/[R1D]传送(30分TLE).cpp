@@ -15,7 +15,7 @@ int main() {
         wezi = x;
         //cout << x << y;
 		for(int i = 1; i <= y; i ++) {
-	     	wezi = a[wezi];
+	        wezi = a[wezi];
 		}
 		cout << wezi << endl;
 	}

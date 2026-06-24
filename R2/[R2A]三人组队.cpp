@@ -9,5 +9,5 @@ int main() {
         scanf("%d", &a[i]);
     }
     sort(a + 1, a + n + 1);
-    printf("%d", a[1] + a[2] + a[3]);
+    printf("%d", a[n - 2] + a[n - 1] + a[n]);
 }
