@@ -1,12 +1,11 @@
- # 本项目介绍 (2026-06-19)
+ # 本项目介绍 (2026-06-26)
 
 ## 一、简介
 	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
     2.已经将所有DYP项目上有的代码全部搬运过来了
 	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
-	2.现在更新到DMY Round 66及DMY Yuesai 202606.
-	3.2026.6.19-> 目前为310文件(C++ + markdown,不含适配IDE的文件)。
-    4.由于Huo-Tian有特殊事件，在6.22~6.30(可能)不会进行更新。
+	2.现在更新到DMY Round 67及DMY Yuesai 202606.
+	3.2026.6.26-> 目前为320文件(C++ + markdown,不含适配IDE的文件)。
 
 ## 二、整理~
 	1.现在的维护由@HuoTian2016(我的小号)和@Huo-Tian2016(我的新小号)进行，现在的添加代码工作由@Huo-Tian(我本人)进行。
@@ -15,6 +14,7 @@
 	4.R20及以前的代码全部美化完成(v1.3.6).
 	5.当时补做R17C的时候过于匆忙，将R17C标题写为了“班服~”，已修改为了正确的标题.(v1.3.6)
     6.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
+    7.目前不打算进行CMake配置。
 
 ## 协议
 
@@ -30,23 +30,31 @@
 								
 ## 各个Round代码加入/修改版本
 
+### 正式
+
 R1 ~ R55 v0.5.6 snapshot 260409a
 R56 v1.0.0
-R53C(60) & R3C v1.1.0
-R16C & R51G(0) v1.1.0 snapshot 26w01a
-R21C R17C R49C & R2C v1.2.5
 R57 v1.3.0
 R58 v1.3.2
 R59 v1.3.3
 R60 v1.3.4
 R61-63 v1.3.4 Snapshot 1-4
-R39B v1.3.4 Snapshot 5
-R1 ~ R20 美观修理 v1.3.6
 R64 v1.3.6 Snapshot-1
-Yuesai(DYP) v1.3.7 Version1
 R65 v1.3.7 Version2
-R63D+修整 v1.3.7 Version5(JotValley)
 R66 v1.3.8 Version1(RekMud)
+R67 v1.3.8 Version2(PreHigh)
+
+### 修补
+R53C(60) & R3C v1.1.0
+R16C & R51G(0) v1.1.0 snapshot 26w01a
+R21C R17C R49C & R2C v1.2.5
+R39B v1.3.4 Snapshot 5
+
+### 修整
+R63D+修整 v1.3.7 Version5(JotValley)
+R1 ~ R20 美观修理 v1.3.6
+Yuesai(DYP) v1.3.7 Version1
+
 ## 格式！(X表示数字)
 
 ### 正式版：
