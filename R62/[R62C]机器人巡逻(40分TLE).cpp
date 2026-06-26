@@ -21,9 +21,9 @@ int main() {
             if(turn == true && p + x >= n) continue;
             if(work) {
                 diff[p] ++;
-                diff[p + x + 1] --;
+                diff[(turn == true ? p + x + 1 : p - x - 1)] --;
             }
-            p += x;
+            p = p + (turn ? x : -x);
 		}
         else if(opt == 2) {
             turn = (turn == true ? false : true);
