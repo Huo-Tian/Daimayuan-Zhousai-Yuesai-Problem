@@ -11,8 +11,9 @@ int main() {
     cin >> n;
     for(int i = 1; i <= n; i ++) cin >> a[i];
     sort(a + 1, a + n + 1);
-    for(int i = 1; i <= n; i ++)
-        for(int j = i + 1; j <= n; j ++)
-            ans += abs(a[i] - a[j]) * (a[i] + a[j]) * 1LL, ans %= P;
+    for(int i = 1; i <= n; i ++) {
+        ans += ((2 * i - n - 1) % P) * (a[i] * a[i] % P);
+        ans %= P;
+    }
     cout << ans % P << endl;
 }
