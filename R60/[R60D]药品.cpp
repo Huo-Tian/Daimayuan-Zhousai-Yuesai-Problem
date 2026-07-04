@@ -1,14 +1,16 @@
 #include <bits/stdc++.h>
 using namespace std;
+using ll = long long;
 
-int x, y, u, v;
+ll x, y, u, v;
 
-bool check(int mid) {
+bool check(ll mid) {
     int st = 0, dt = 0;
-    st = (mid / u) * v + min(mid % u, v);
+    st = (int)(ceil(mid / u)) * v + min(mid % u, v);
+    //cout << (int)(ceil(mid / u)) * v << " " << min(mid % u, v) << endl;
     dt = mid - st;
     int sena = (x - st), senb = (y - st);
-    //printf("吃两种药:%d 吃一种药:%d A剩余:%d B剩余:%d\n", st, dt, sena, senb);
+    //printf("一共吃:%d 吃两种药:%d 吃一种药:%d A剩余:%d B剩余:%d\n", mid, st, dt, sena, senb);
     if (sena <= dt && senb <= dt && sena + senb <= dt) {
         return true;
     }
@@ -17,10 +19,10 @@ bool check(int mid) {
 
 int main() {
     cin >> x >> y >> u >> v;
-    int L = 0, R = x + y + 1;
+    ll L = 0, R = x + y;
     while (L + 1 < R) {
         //cout << L << " " << R << " ";
-        int mid = (L + R) / 2;
+        ll mid = (L + R) / 2;
         if (check(mid)) {
             R = mid;
         } else {
