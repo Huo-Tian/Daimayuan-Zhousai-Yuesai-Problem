@@ -14,7 +14,7 @@
 	4.R20及以前的代码全部美化完成(v1.3.6).
 	5.当时补做R17C的时候过于匆忙，将R17C标题写为了“班服~”，已修改为了正确的标题.(v1.3.6)
     6.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
-    7.目前不打算进行CMake配置。
+    7.目前打算进行CMake配置。
 
 ## 协议
 
@@ -52,7 +52,7 @@ R21C R17C R49C & R2C v1.2.5
 R39B v1.3.4 Snapshot 5
 R60+R62 v1.3.8 Version4(ProLik)
 R67D v1.3.8 Version5(ProLik2)
-Yuesai 202607  v1.3.8 Version5(ProLik2)
+Yuesai 202607 v1.3.8 Version5(ProLik2)
 
 ### 修整
 R63D+修整 v1.3.7 Version5(JotValley)
