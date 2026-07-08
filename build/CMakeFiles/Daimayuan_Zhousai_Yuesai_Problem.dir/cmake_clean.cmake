@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.obj"
+  "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.obj.d"
   "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.obj"
   "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.obj.d"
   "Daimayuan_Zhousai_Yuesai_Problem.exe"

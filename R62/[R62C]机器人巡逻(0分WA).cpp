@@ -19,7 +19,7 @@ int main() {
             int x;
             cin >> x;
             if(turn == false && p - x < 0) continue;
-            if(turn == true && p + x + 1 > n) continue;
+            if(turn == true && p + x > n) continue;
             if(work) {
                 if(turn == false) {
                     diff[p - x] ++;
@@ -43,11 +43,7 @@ int main() {
     for(int i = 0; i <= n; i ++) {
         d[i] = d[i - 1] + diff[i];
     }
-    for(int i = 0; i <= n; i ++) {
-        cout << diff[i] << " ";
-    }
-    cout << endl;
-    for(int i = 0; i <= n; i ++) {
-        cout << d[i] % 2 << " ";
+    for(int i = 1; i <= n; i ++) {
+        cout << d[i] % 2;
     }
 }

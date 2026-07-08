@@ -135,6 +135,30 @@ Daimayuan_Zhousai_Yuesai_Problem/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/build
 .PHONY : Daimayuan_Zhousai_Yuesai_Problem/fast
 
+R16/[R16D]通关.obj: R16/[R16D]通关.cpp.obj
+.PHONY : R16/[R16D]通关.obj
+
+# target to build an object file
+R16/[R16D]通关.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.obj
+.PHONY : R16/[R16D]通关.cpp.obj
+
+R16/[R16D]通关.i: R16/[R16D]通关.cpp.i
+.PHONY : R16/[R16D]通关.i
+
+# target to preprocess a source file
+R16/[R16D]通关.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.i
+.PHONY : R16/[R16D]通关.cpp.i
+
+R16/[R16D]通关.s: R16/[R16D]通关.cpp.s
+.PHONY : R16/[R16D]通关.s
+
+# target to generate assembly for a file
+R16/[R16D]通关.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.s
+.PHONY : R16/[R16D]通关.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -169,6 +193,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Daimayuan_Zhousai_Yuesai_Problem
+	@echo ... R16/[R16D]通关.obj
+	@echo ... R16/[R16D]通关.i
+	@echo ... R16/[R16D]通关.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

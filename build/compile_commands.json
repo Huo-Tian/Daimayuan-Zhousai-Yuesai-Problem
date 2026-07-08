@@ -4,5 +4,11 @@
   "command": "D:\\msys64\\mingw64\\bin\\clang++.exe   -g -std=gnu++23 -o CMakeFiles\\Daimayuan_Zhousai_Yuesai_Problem.dir\\main.cpp.obj -c \"E:\\Github Repositories\\Daimayuan-Zhousai-Yuesai-Problem\\main.cpp\"",
   "file": "E:/Github Repositories/Daimayuan-Zhousai-Yuesai-Problem/main.cpp",
   "output": "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/Github Repositories/Daimayuan-Zhousai-Yuesai-Problem/build",
+  "command": "D:\\msys64\\mingw64\\bin\\clang++.exe   -g -std=gnu++23 -o CMakeFiles\\Daimayuan_Zhousai_Yuesai_Problem.dir\\R16\\[R16D]通关.cpp.obj -c \"E:\\Github Repositories\\Daimayuan-Zhousai-Yuesai-Problem\\R16\\[R16D]通关.cpp\"",
+  "file": "E:/Github Repositories/Daimayuan-Zhousai-Yuesai-Problem/R16/[R16D]通关.cpp",
+  "output": "CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.obj"
 }
 ]
