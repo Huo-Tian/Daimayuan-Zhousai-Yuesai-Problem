@@ -29,7 +29,11 @@ int main() {
                     diff[p + x + 1] --;
                 }
             }
-            p += (turn ? x : -x);
+            if(turn) {
+                p += x;
+            } else {
+                p -= x;
+            }
         } else if(opt == 2) {
             turn = (turn == true ? false : true);
         } else if(opt == 3){
@@ -42,7 +46,7 @@ int main() {
     for(int i = 0; i <= n; i ++) {
         cout << diff[i] << " ";
     }
-        cout << endl;
+    cout << endl;
     for(int i = 0; i <= n; i ++) {
         cout << d[i] % 2 << " ";
     }
