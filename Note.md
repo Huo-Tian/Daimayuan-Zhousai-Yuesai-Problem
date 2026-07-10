@@ -1,20 +1,20 @@
- # 本项目介绍 (2026-07-04)
+ # 本项目介绍 (2026-07-09)
 
 ## 一、简介
-	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 比赛题代码(有些题目前还没有代码)。
+	1.本项目为[DMY竞赛平台](bs.daimayuan.top) 及 [DMY月赛](newoj.daimayuan.top/contest/) 比赛题代码(有些题目前还没有代码)。
     2.已经将所有DYP项目上有的代码全部搬运过来了
 	全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 	2.现在更新到DMY Round 68及DMY Yuesai 202607.
-	3.目前为329文件(C++ + markdown,不含适配IDE的文件)。
+	3.目前为335文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
 
 ## 二、整理~
-	1.现在的维护由@HuoTian2016(我的小号)和@Huo-Tian2016(我的新小号)进行，现在的添加代码工作由@Huo-Tian(我本人)进行。
+	1.现在的维护由@HuoTian2016和@Huo-Tian2016进行，现在的添加代码工作由@Huo-Tian进行。
     2.在2026-04-29之后可以在题库中看到R1A。(终于加上了)
-	3.由于R20及以前(尤其是R10及之前)的一大部分代码看得不美观,现在的美观版代码由@Huo-Tian(我本人)进行了美化。
+	3.由于R20及以前的部分代码看得不美观,现在的美观版代码由@Huo-Tian进行了美化。
 	4.R20及以前的代码全部美化完成(v1.3.6).
 	5.当时补做R17C的时候过于匆忙，将R17C标题写为了“班服~”，已修改为了正确的标题.(v1.3.6)
     6.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
-    7.目前打算进行CMake配置。
+    7.目前进行CMake配置。
 
 ## 协议
 
@@ -53,6 +53,7 @@ R39B v1.3.4 Snapshot 5
 R60+R62 v1.3.8 Version4(ProLik)
 R67D v1.3.8 Version5(ProLik2)
 Yuesai 202607 v1.3.8 Version5(ProLik2)
+R62C & R16D & R44C & Cmake v1.3.8 Version5(ProLik2)
 
 ### 修整
 R63D+修整 v1.3.7 Version5(JotValley)
@@ -75,13 +76,13 @@ vX.X.X snapshot-X 代号
 
 vX.X.X XXwXX-PreV
 
-### 最终版
+### 终末版
 (像1.3.4系列这样有5个及以上快照版本的才有)
 (通常下一个版本会跳到(va.b.c)：va.b.c+2)
 
 vX.X.X Max_End_Version
 
-Huotian© 2025-2026 Copyright
+Huotian© 2025-2026 允许复刻
 
 Wrote in Xi'an, Shaanxi, China.
 ***Huo-Tian & HuoTian2016 & Huo-Tian2016***
