@@ -159,30 +159,6 @@ R16/[R16D]通关.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/R16/[R16D]通关.cpp.s
 .PHONY : R16/[R16D]通关.cpp.s
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
-
-# target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.obj
-.PHONY : main.cpp.obj
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -196,9 +172,6 @@ help:
 	@echo ... R16/[R16D]通关.obj
 	@echo ... R16/[R16D]通关.i
 	@echo ... R16/[R16D]通关.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
 .PHONY : help
 
 

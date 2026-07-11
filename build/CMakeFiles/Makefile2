@@ -84,12 +84,12 @@ clean: CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/clean
 CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" --progress-num=1,2,3 "Built target Daimayuan_Zhousai_Yuesai_Problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" --progress-num=1,2 "Built target Daimayuan_Zhousai_Yuesai_Problem"
 .PHONY : CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" 0
 .PHONY : CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/rule
@@ -101,7 +101,7 @@ Daimayuan_Zhousai_Yuesai_Problem: CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.di
 # codegen rule for target.
 CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/codegen:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\build.make CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" --progress-num=1,2,3 "Finished codegen for target Daimayuan_Zhousai_Yuesai_Problem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="E:\Github Repositories\Daimayuan-Zhousai-Yuesai-Problem\build\CMakeFiles" --progress-num=1,2 "Finished codegen for target Daimayuan_Zhousai_Yuesai_Problem"
 .PHONY : CMakeFiles/Daimayuan_Zhousai_Yuesai_Problem.dir/codegen
 
 # clean rule for target.
