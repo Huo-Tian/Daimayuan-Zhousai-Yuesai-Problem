@@ -1,4 +1,4 @@
- # 本项目介绍 (2026-07-13)
+# 本项目介绍 (2026-07-18)
 
 ## 一、简介
 
@@ -8,9 +8,11 @@
 
 全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 
-2.现在更新到DMY Round 69及DMY Yuesai 202607.
+2.现在更新到DMY Round 70及DMY Yuesai 202607.
 
-3.目前为340文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+3.目前为343文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+
+4.每周（有可能延迟）更新~
 
 ## 二、整理~
 
@@ -22,23 +24,13 @@
 
 4.R20及以前的代码全部美化完成(v1.3.6).
 
-5.当时补做R17C的时候过于匆忙，将R17C标题写为了“班服~”，已修改为了正确的标题.(v1.3.6)
+5.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
 
-6.将DYP项目上已经有的所有代码补充上来了，正式更名为DZYP！
-
-7.目前进行CMake配置。
+6.目前有CMake配置。
 
 ## 协议
 
 本项目协议为Apache License 2.0.
-
-## 注
-
-*Thanks: **Huo-Tian**、**Huotian2016**（我的小号）、**Huo-tian2016**（我的新小号）*
-
-每周（有可能延迟）更新~
-
-简介的英文是**Huo-Tian**编写的。
 
 ## 各个Round代码加入/修改版本
 
@@ -57,6 +49,7 @@ R66 v1.3.8 Version1(RekMud)
 R67 v1.3.8 Version3(PreHigh)
 R68 v1.3.8 Version4(ProLik)
 R69 v1.3.8 Version5(ProLik2)
+R70 v1.3.9 Knocx-1
 
 ### 修补
 
@@ -68,6 +61,7 @@ R60+R62 v1.3.8 Version4(ProLik)
 R67D v1.3.8 Version5(ProLik2)
 Yuesai 202607 v1.3.8 Version5(ProLik2)
 R62C & R16D & R44C & Cmake v1.3.8 Version5(ProLik2)
+R37, R70, R9, Cmake v1.3.9 Knocx-1  
 
 ### 修整
 

@@ -1,1 +1,0 @@
-{"name":"Local: 202603-C","url":"f:\\ZhouSai\\YueSai\\202603-C.cpp","tests":[{"id":1772861875708,"input":"3\n","output":"+ + \n +  \n+ +\n"},{"id":1772861876920,"input":"5\n","output":"+   +\n + + \n  +  \n + + \n+   +\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\ZhouSai\\YueSai\\202603-C.cpp","group":"local","local":true}

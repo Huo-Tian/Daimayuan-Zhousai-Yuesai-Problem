@@ -1,4 +1,4 @@
-为大家安利几款插件！
+# 20款插件
 
 1.Better C++ Syntax:语法高亮
 2.Bookmarks:书签
@@ -22,4 +22,4 @@
 20.Gitlens:和自带的Git差别极大~
 
 优秀的编译器安装软件：msys2
-解决了我们在Windows上的GCC和Clang(冷知识，你直接装LLVM的Windows全员包可能用不了，需要加个GCC)的安装和使用！
+解决了我们在Windows上的GCC和Clang(冷知识，你直接装LLVM的Windows全员包可能用不了，需要加个GCC)的安装和使用
