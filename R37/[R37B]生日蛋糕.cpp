@@ -1,3 +1,5 @@
+/*
+封存一个O(n^3)：
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -22,7 +24,24 @@ int main() {
                 }
             }
             ans = max(ans, ma - cma);
-         }
+        }
+    }
+    cout << ans << endl;
+}*/
+#include <bits/stdc++.h>
+using namespace std;
+
+int n, a[10010];
+
+int main() {
+    cin >> n;
+    for (int i = 1; i <= n; i ++) {
+        cin >> a[i];
+    }
+    int ans = 0;
+    //sort(a + 1, a + n + 1);
+    for (int i = 1; i < n; i ++) {
+        ans = max(ans, abs(a[i] - a[i + 1]));
     }
     cout << ans << endl;
 }
