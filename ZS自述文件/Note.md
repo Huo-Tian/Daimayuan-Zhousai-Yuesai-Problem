@@ -49,7 +49,7 @@ R66 v1.3.8 Version1(RekMud)
 R67 v1.3.8 Version3(PreHigh)
 R68 v1.3.8 Version4(ProLik)
 R69 v1.3.8 Version5(ProLik2)
-R70 v1.3.9 Knocx-1
+R70 v1.3.9 Knocx-v1
 
 ### 修补
 
@@ -61,7 +61,8 @@ R60+R62 v1.3.8 Version4(ProLik)
 R67D v1.3.8 Version5(ProLik2)
 Yuesai 202607 v1.3.8 Version5(ProLik2)
 R62C & R16D & R44C & Cmake v1.3.8 Version5(ProLik2)
-R37, R70, R9, Cmake v1.3.9 Knocx-1  
+R37, R70, R9, Cmake v1.3.9 Knocx-v1  
+R53C, R54C, R55C, R57C, R62C, R69C v1.3.9 Knocx-v1
 
 ### 修整
 
