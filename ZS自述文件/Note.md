@@ -1,4 +1,4 @@
-# 本项目介绍 (2026-07-18)
+# 本项目介绍 (2026-07-20)
 
 ## 一、简介
 
@@ -10,7 +10,7 @@
 
 2.现在更新到DMY Round 70及DMY Yuesai 202607.
 
-3.目前为343文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+3.目前为340文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
 
 4.每周（有可能延迟）更新~
 
@@ -62,7 +62,7 @@ R67D v1.3.8 Version5(ProLik2)
 Yuesai 202607 v1.3.8 Version5(ProLik2)
 R62C & R16D & R44C & Cmake v1.3.8 Version5(ProLik2)
 R37, R70, R9, Cmake v1.3.9 Knocx-v1  
-R53C, R54C, R55C, R57C, R62C, R69C v1.3.9 Knocx-v1
+R36C, R51C, R53C, R54C, R55C, R57C, R62C, R69C v1.3.9 Knocx-v1
 
 ### 修整
 
