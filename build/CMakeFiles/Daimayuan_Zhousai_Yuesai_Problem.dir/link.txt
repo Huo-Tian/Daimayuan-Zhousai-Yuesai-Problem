@@ -1,3 +1,0 @@
-"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir/objects.a
-D:\msys64\mingw64\bin\ar.exe qc CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir/objects.a @CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\objects1.rsp
-D:\msys64\mingw64\bin\clang++.exe -g -Wl,--whole-archive CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir/objects.a -Wl,--no-whole-archive -o Daimayuan_Zhousai_Yuesai_Problem.exe -Wl,--out-implib,libDaimayuan_Zhousai_Yuesai_Problem.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Daimayuan_Zhousai_Yuesai_Problem.dir\linkLibs.rsp
