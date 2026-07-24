@@ -32,7 +32,7 @@
 
 本项目协议为Apache License 2.0.
 
-Huotian© 2025-2026 允许复刻
+Huotian© 2026 允许复刻
 
 Wrote in Xi'an, Shaanxi, China.
 ***Huo-Tian & HuoTian2016 & Huo-Tian2016***
