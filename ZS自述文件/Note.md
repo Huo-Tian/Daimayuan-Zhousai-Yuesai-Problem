@@ -10,7 +10,7 @@
 
 2.现在更新到DMY Round 70及DMY Yuesai 202607.
 
-3.目前为339文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+3.目前为344文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
 
 4.每周（有可能延迟）更新~
 
