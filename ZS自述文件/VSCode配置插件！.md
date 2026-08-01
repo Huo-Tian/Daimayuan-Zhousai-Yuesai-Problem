@@ -9,7 +9,7 @@
 7.clangd:Clang官方语言服务器插件
 8.Code runner:代码运行
 9.CodeLLDB:LLDB专武
-10.Competitive Programming Helper(简称cph):竞赛测样例神器
+10.cph-NG:竞赛测样例神器(原CPH)
 11.Error Lens:美化报错信息位置
 12.GlassIt-VSC:玻璃效果
 13.Indent-rainbow:Tab彩虹
