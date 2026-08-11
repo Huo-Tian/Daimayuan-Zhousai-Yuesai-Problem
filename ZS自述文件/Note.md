@@ -2,7 +2,9 @@
 
 ## 一、简介
 
-1.本项目为[DMY竞赛平台](bs.daimayuan.top) 及 [DMY月赛](newoj.daimayuan.top/contest/) 比赛题代码(有些题目前还没有代码)。
+1.本项目为[DMY竞赛平台](https://bs.daimayuan.top) 及 [DMY月赛-NewOJ](https://newoj.daimayuan.top/contest/) 比赛题代码(有些题目前还没有代码)。
+
+[DMY月赛-OldOJ](http://oj.daimayuan.top/contest/) 
 
 2.已经将所有DYP项目上有的代码全部搬运过来了
 
