@@ -1,16 +1,28 @@
+<<<<<<< HEAD
 # 本项目介绍 (2026-08-28)
+=======
+# 本项目介绍 (2026-08-11)
+>>>>>>> 0f4892adcf508cd0584288918f2ca5c02b01d0c1
 
 ## 一、简介
 
-1.本项目为[DMY竞赛平台](bs.daimayuan.top) 及 [DMY月赛](newoj.daimayuan.top/contest/) 比赛题代码(有些题目前还没有代码)。
+1.本项目为[DMY竞赛平台](https://bs.daimayuan.top) 及 [DMY月赛-NewOJ](https://newoj.daimayuan.top/contest/) 比赛题代码(有些题目前还没有代码)。
+
+[DMY月赛-OldOJ](http://oj.daimayuan.top/contest/) 
 
 2.已经将所有DYP项目上有的代码全部搬运过来了
 
 全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 
+<<<<<<< HEAD
 2.现在更新到DMY Round 73及DMY Yuesai 202608.
 
 3.目前为352文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+=======
+2.现在更新到DMY Round 70及DMY Yuesai 202608(202608 Nonwe).
+
+3.目前为345?文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+>>>>>>> 0f4892adcf508cd0584288918f2ca5c02b01d0c1
 
 4.每周（有可能延迟）更新~
 
