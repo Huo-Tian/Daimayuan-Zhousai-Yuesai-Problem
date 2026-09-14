@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # 本项目介绍 (2026-08-28)
-=======
-# 本项目介绍 (2026-08-11)
->>>>>>> 0f4892adcf508cd0584288918f2ca5c02b01d0c1
 
 ## 一、简介
 
@@ -14,15 +10,9 @@
 
 全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 
-<<<<<<< HEAD
-2.现在更新到DMY Round 73及DMY Yuesai 202608.
+2.现在更新到DMY Round 70及DMY Yuesai 202608(202608 None).
 
-3.目前为352文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
-=======
-2.现在更新到DMY Round 70及DMY Yuesai 202608(202608 Nonwe).
-
-3.目前为345?文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
->>>>>>> 0f4892adcf508cd0584288918f2ca5c02b01d0c1
+3.目前为350+文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
 
 4.每周（有可能延迟）更新~
 
