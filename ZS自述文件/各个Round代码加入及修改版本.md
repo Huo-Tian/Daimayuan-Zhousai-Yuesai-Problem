@@ -114,3 +114,5 @@ vX.X.X snapshot-X(代号)
 (通常下一个版本会跳到(va.b.c)：va.b.c+2)
 
 vX.X.X Max_End_Version
+
+该markdown文件已废弃。

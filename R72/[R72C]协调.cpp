@@ -17,9 +17,17 @@ void solve() {
     }
     em = a[1], om = a[2];
     for(int i = 3, j = 4; i <= n && j <= n; i += 2, j += 2) {  
-        if(a[i] != -1 && )
+        if(a[i] != em) {
+            cout << -1 << endl;
+            return;
+        }
+        if(a[j] != om) {
+            cout << -1 << endl;
+            return;
+        }
+        e = em, o = om;
     }
-
+    cout << (e - o) / 2 << endl;
 }
 
 int main() {
