@@ -72,6 +72,14 @@ R67 v1.3.8 Version3(PreHigh)
 R68 v1.3.8 Version4(ProLik)
 R69 v1.3.8 Version5(ProLik2)
 R70 v1.3.9 Knocx-v1
+R71 v26.10.1
+R72 v26.10.1
+R73 v26.10.1
+R74 v26.10.1
+R75 v26.10.1
+R76 v26.10.1
+R77 v26.10.1
+R78 v26.10.1
 
 ## 修补
 
