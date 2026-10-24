@@ -10,9 +10,9 @@
 
 全称Daimayuan-Zhousai-Yuesai-Problem，简称DZYP(原来只有Zhousai的，叫DZP)
 
-2.现在更新到DMY Round 78及DMY Yuesai 202610(202608 Codes Included).
+2.现在更新到DMY Round 81及DMY Yuesai 202610(202608 Codes Included).
 
-3.目前为391文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
+3.目前为399文件(C++ + markdown, 包含.vscode、代码文件夹、Markdown)。
 
 4.每周（有可能延迟）更新~
 
